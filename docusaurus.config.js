@@ -8,7 +8,7 @@ const projectName = "sidewinders-dot-io";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'KY20021 Sidewinders',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Site currently under construction',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,21 +64,33 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'AFJROTC - KY20221',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/afjrotc-crest.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'drillManualSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Drill & Ceremonies',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'raidersSidebar',
+            position: 'left',
+            label: 'Raiders',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'cyberOperationsSidebar',
+            position: 'left',
+            label: 'Cyber Operations',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ky20221/sidewinders-dot-io',
             label: 'GitHub',
             position: 'right',
           },
@@ -127,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AFJROTC KY20021. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
