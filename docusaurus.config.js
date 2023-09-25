@@ -3,11 +3,11 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const organizationName = "KY20021";
-const projectName = "sidewinders-dot-io";
+const organizationName = 'KY20021';
+const projectName = 'sidewinders-dot-io';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KY20021 Sidewinders',
+  title: 'Sidewinders.io',
   tagline: 'Site currently under construction',
   favicon: 'img/favicon.ico',
 
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: "/docs/category/tutorial---basics"
+                to: '/docs/category/tutorial---basics',
               },
             ],
           },
