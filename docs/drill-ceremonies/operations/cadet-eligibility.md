@@ -98,3 +98,33 @@ Any unarmed drill team member who has attended the safety briefing, may join the
 
 - Be a member of the Armed Drill Team for at least 1 academic school year.
 - Be a member of cadet cadre in good standing
+
+### The Honor Guard (Exhibition Drill Team)
+
+The Honor Guard is the most elite level the Drill and Ceremonies team. Any armed drill team or color guard member who has attended the safety briefing, may join the Honor Guard for **practice**.
+
+Competition and events are reserved for qualified members of the Honor Guard.
+
+#### To qualify as a member of the Honor Guard a cadet must meet the following requirements:
+
+- Be a member in good standing of the Armed Drill Team.
+- Competition Eligible in the Armed Drill Team.
+- Verified to able to perform all movements in the Regulation Color Guard manual by a member of the Cadet Cadre or Staff
+- Verified to be able to perform all the basic level movements in the Honor Guard Exhibition Drill Team manual by a member of the Cadet Cadre.
+
+#### To qualify for uniform designation a cadet must meet the following requirements:
+
+- Be a member of the Honor Guard for at least 1 academic school year.
+- Attend at least 70% of all practices.
+- Attend at least 70% of all events.
+
+#### To be competition eligible a cadet must meet the following requirements:
+
+- Be a member of the Honor Guard in good standing
+- Prepare and perform an exhibition drill routine (Solo or Team) for the Cadet Cadre and Staff.
+
+#### To qualify for Commander designation a cadet must meet the following requirements:
+
+Unlike other teams, the Honor Guard's commander is voted on by the team. Any member of the Honor Guard may be nominated for commander, and the team will vote on who they want to be their commander.
+
+The commander position is a half year term, and the team will vote on a new commander at the end of each semester.

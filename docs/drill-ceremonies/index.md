@@ -7,8 +7,13 @@ sidebar_position: 1
 ## Operating procedures
 
 - [Cadet Eligibility & Qualification](/docs/drill-ceremonies/operations/cadet-eligibility)
-  - [Color Guard](/docs/drill-ceremonies/operations/cadet-elgibility/#color-guard)
-  - [Cadet Cadre](/docs/drill-ceremonies/operations/cadet-elgibility/#cadet-cadre)
+
+  - [Cadet Cadre](/docs/drill-ceremonies/operations/cadet-eligibility#cadet-cadre)
+  - [Unarmed Drill Team](/docs/drill-ceremonies/operations/cadet-eligibility#unarmed-drill-team)
+  - [Color Guard](/docs/drill-ceremonies/operations/cadet-eligibility#color-guard)
+  - [Armed Drill Team](/docs/drill-ceremonies/operations/cadet-eligibility#armed-drill-team)
+  - [Honor Guard (Exhibition Drill Team)](/docs/drill-ceremonies/operations/cadet-eligibility#honor-guard)
+
 - [Running a Practice](/docs/drill-ceremonies/operations/running-a-practice)
 
 ## Drill manuals
