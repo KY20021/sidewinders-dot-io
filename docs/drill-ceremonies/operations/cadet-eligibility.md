@@ -101,7 +101,7 @@ Any unarmed drill team member who has attended the safety briefing, may join the
 
 ### The Honor Guard (Exhibition Drill Team)
 
-The Honor Guard is the most elite level the Drill and Ceremonies team. Any armed drill team or color guard member who has attended the safety briefing, may join the Honor Guard for **practice**.
+The Honor Guard is the most elite level of the Drill and Ceremonies team. Any armed drill team member or color guard member who has attended the safety briefing, may join the Honor Guard for **practice**.
 
 Competition and events are reserved for qualified members of the Honor Guard.
 
