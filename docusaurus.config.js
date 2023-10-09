@@ -88,7 +88,7 @@ const config = {
             position: 'left',
             label: 'Cyber Operations',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          //{ to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/ky20221/sidewinders-dot-io',
             label: 'GitHub',
