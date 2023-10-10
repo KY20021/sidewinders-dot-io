@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
         secure your future!
       </Fragment>
     ),
-    href: '/docs/cyber-operations',
+    href: '/docs/cyber-ops',
   },
 ];
 
