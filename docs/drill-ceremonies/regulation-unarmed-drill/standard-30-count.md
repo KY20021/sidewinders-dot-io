@@ -1,6 +1,9 @@
 ---
 title: Standard 30 Count
+sidebar_position: 1
 ---
+
+[Certification Checkoff Sheet](/docs/drill-ceremonies/regulation-unarmed-drill/standard-30-count-checkoff)
 
 ### Flight Drill Sequence
 
@@ -34,3 +37,5 @@ title: Standard 30 Count
 28. Left face
 29. Right step march
 30. Flight halt
+
+<!--turn the above list into a table, columns of number, command and an empty pass/fail column>-->
