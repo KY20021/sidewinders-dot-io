@@ -22,11 +22,10 @@ sidebar_position: 1
 
 As we continue to build out the normalized version of our drill and ceremonies manual, we will default to AFMAN 34-1203 as the source of truth. We will also be adding additional information to the manual as we see fit. The manual will be broken down into the following sections:
 
-- [Regulation Unarmed Drill](/docs/regulation-unarmed-drill)
-- [Regulation Armed Drill](/docs/regulation-armed-drill)
-- [Regulation Color Guard](/docs/regulation-color-guard)
-- [Regulation Ceremonies](/docs/regulation-ceremonies)
+- [Regulation Unarmed Drill](/docs/category/regulation-unarmed-drill)
+- [Regulation Armed Drill](/docs/category/regulation-armed-drill)
+- [Regulation Color Guard](/docs/category/regulation-color-guard)
 - [Exhibition Unarmed Drill](/docs/regulation-exhibition-drill)
-- [Exhibition Armed Drill](/docs/exhibition-armed-drill)
-- [Exhibition Ceremonies](/docs/exhibition-ceremonies)
-- [Competition](/docs/competition)
+- [The Honor Guard](/docs/category/honor-guard-exhibition-drill)
+- [Ceremonies](/docs/category/ceremonies-manual)
+- [Competition](/docs/category/competition-manual)
