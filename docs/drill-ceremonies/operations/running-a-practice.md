@@ -57,7 +57,7 @@ While the armed drill team uses replica rifles, they both look and feel like rea
 
 Due to the nature of the replica weapons we use in drill, it is possible that law enforcement may be called to the scene of a practice.
 
-In the event that law enforcement arrives on scene, the Cadet Cadre will immediately call all cadets to attention, practice will pause, all cadets are to remain at the position of attention until instructed by law enforcement or cadet cadre to do otherwise.
+In the event that law enforcement arrives on scene, the Cadet Cadre will immediately call all cadets to attention using the command **PRACTICE, ATTENTION**, practice will pause, all cadets are to remain at the position of attention until instructed by law enforcement or cadet cadre to do otherwise.
 
 Law enforcement will be greeted by the Cadet Cadre, and the Cadet Cadre will notify the law enforcement officer that the rifles are replicas, and that they are being used for drill practice.
 
