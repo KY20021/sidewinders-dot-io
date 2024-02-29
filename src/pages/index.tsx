@@ -6,12 +6,6 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
-
-/*
-!--signup form--!
-aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC9lLzFGQUlwUUxTZEpJVnM2Q0I2dmpoVzM2bzBpNkNlc0hnbHdtdkpjaTFiekU1QzBJekM2bmtIZXV3L3ZpZXdmb3Jt
-!--signup form--!
-*/
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
