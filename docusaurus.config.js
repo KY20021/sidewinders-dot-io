@@ -90,7 +90,7 @@ const config = {
           },
           //{ to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/ky20221/sidewinders-dot-io',
+            href: 'https://github.com/ky20021/sidewinders-dot-io',
             label: 'GitHub',
             position: 'right',
           },
@@ -131,4 +131,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = config; 
