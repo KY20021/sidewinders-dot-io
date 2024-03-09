@@ -3,6 +3,8 @@ title: Introduction
 description: Drill and Ceremonies
 sidebar_position: 1
 ---
+<img  style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/Honorguardpatch.png').default} width='250px' height='250px' />
 
 ## Operating procedures
 
