@@ -3,8 +3,11 @@ title: Raiders
 sidebar_position: 1
 ---
 
-The Air Force JROTC is starting a new, challenging and exceptionally elite competition team known as the Raider Team.
 
+<img  style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/Raiderpatch.png').default} width='250px' height='250px' alt='this is a test'/>
+
+The Air Force JROTC is starting a new, challenging and exceptionally elite competition team known as the Raider Team.
 The Raider Team is loosely modeled after the Special Operations Army Rangers. Our team values include exemplary devotion to fitness, excellent self-discipline and completely selfless commitment to the team and our comrades.
 
 The overall goal for Raiders will be helping foster the will to **"NEVER QUIT!"** Whether that be in academics or on an obstacle course, Raiders will fight till the end.
