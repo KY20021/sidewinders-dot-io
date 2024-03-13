@@ -87,7 +87,14 @@ const config = {
             sidebarId: 'cyberOperationsSidebar',
             position: 'left',
             label: 'Cyber Operations',
+      
           },
+          {
+            sidebarId:"echoFlightSidebar" ,
+            type:'docSidebar' ,
+            position: 'left' , 
+            label: 'Echo Flight'
+          } ,
           //{ to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/ky20021/sidewinders-dot-io',
