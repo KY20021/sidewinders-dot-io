@@ -1,0 +1,4 @@
+[codespell]
+skip = *.pdf,./node_modules/*,package-lock.json
+count =
+quiet-level = 3

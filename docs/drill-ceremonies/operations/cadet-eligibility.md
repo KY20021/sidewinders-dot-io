@@ -57,7 +57,7 @@ Any unarmed drill team member may join the Color Guard for practice and competit
 #### To qualify for color guard events a cadet must meet the following requirements:
 
 - Be a member in good standing of the Unarmed Drill Team.
-- Verified to able to perform all movements in the Regulation Color Guard manual by a member of the Cadet Cadre, in atleast **one** of the following positions:
+- Verified to able to perform all movements in the Regulation Color Guard manual by a member of the Cadet Cadre, in at least **one** of the following positions:
   - Flag Bearer (US)
   - Flag Bearer (State)
   - Rifle Bearer (Right)
@@ -65,12 +65,12 @@ Any unarmed drill team member may join the Color Guard for practice and competit
 
 #### To qualify for uniform designation a cadet must meet the following requirements:
 
-- Participate in atleast 3 Color Guard events during an academic school year.
+- Participate in at least 3 Color Guard events during an academic school year.
 - Attend at least 70% of all practices.
 
 #### To qualify for competition a cadet must meet the following requirements:
 
-- Verified to be able to perform all movements in the Regulation Color Guard manual by a member of the Cadet Cadre, in atleast **two** of the following positions:
+- Verified to be able to perform all movements in the Regulation Color Guard manual by a member of the Cadet Cadre, in at least **two** of the following positions:
   - Flag Bearer (US)
   - Flag Bearer (State)
   - Rifle Bearer (Right)
@@ -99,9 +99,9 @@ Any unarmed drill team member who has attended the safety briefing, may join the
 - Be a member of the Armed Drill Team for at least 1 academic school year.
 - Be a member of cadet cadre in good standing
 
-### The Honor Guard (Exhibition Drill Team)
+### Rifle Exhibition Drill Team
 
-The Honor Guard is the most elite level of the Drill and Ceremonies team. Any armed drill team member or color guard member who has attended the safety briefing, may join the Honor Guard for **practice**.
+The rifle exhibition team is the most elite level of the Drill and Ceremonies team. Any armed drill team member or color guard member who has attended the safety briefing, may join the Honor Guard for **practice**.
 
 Competition and events are reserved for qualified members of the Honor Guard.
 

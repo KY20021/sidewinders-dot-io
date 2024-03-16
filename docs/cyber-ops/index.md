@@ -4,7 +4,6 @@ title: Cyber Operations Team
 sidebar_position: 1
 ---
 
-
 Are you ready to embark on an exciting journey into the world of cutting-edge technology and cybersecurity? Look no further! The Cadet Cyber Operations Team is calling upon passionate individuals like you to become the next generation of digital defenders.
 
 🌐 **Website Wizards**:
