@@ -14,7 +14,12 @@ function HomepageHeader() {
         <h1 className="hero__title">Sidewinders</h1>
         <p className="hero__subtitle">KY20021 AFJROTC</p>
         <div>
-          <img src="img/sidewinderspatch.png" alt="sidewinders patch" width="250px" height="250px" />
+          <img
+            src="img/sidewinderspatch.png"
+            alt="sidewinders patch"
+            width="250px"
+            height="250px"
+          />
         </div>
       </div>
     </header>

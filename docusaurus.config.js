@@ -74,7 +74,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'drillManualSidebar',
             position: 'left',
-            label: 'Drill & Ceremonies',
+            label: 'Honor Guard',
           },
           {
             type: 'docSidebar',
@@ -87,14 +87,13 @@ const config = {
             sidebarId: 'cyberOperationsSidebar',
             position: 'left',
             label: 'Cyber Operations',
-      
           },
           {
-            sidebarId:"echoFlightSidebar" ,
-            type:'docSidebar' ,
-            position: 'left' , 
-            label: 'Echo Flight'
-          } ,
+            sidebarId: 'echoFlightSidebar',
+            type: 'docSidebar',
+            position: 'left',
+            label: 'Echo Flight',
+          },
           //{ to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/ky20021/sidewinders-dot-io',
@@ -138,4 +137,4 @@ const config = {
     }),
 };
 
-module.exports = config; 
+module.exports = config;

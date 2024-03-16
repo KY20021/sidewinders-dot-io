@@ -7,7 +7,7 @@ description: Drill and Ceremonies - Running a Practice
 
 A practice consists of the following:
 
-- [Attendence and accountability](#attendance-and-accountability)
+- [Attendance and accountability](#attendance-and-accountability)
 - [Safety briefing](#safety-briefing)
 - [Warmup](#warmup)
 - [Drill](#drill)
@@ -117,6 +117,6 @@ The cadets will form a circle, and the Cadet Cadre will ask the following questi
 
 ### Dismissal
 
-After every practice, the Cadet Cadre will dismiss the cadets. By calling them to attention and then issueing the "dismissed" command.
+After every practice, the Cadet Cadre will dismiss the cadets. By calling them to attention and then issuing the "dismissed" command.
 
 The Cadet Cadre will ensure that all cadets have a ride home, and that all cadets are picked up by their ride home. The Cadet Cadre is the last person to leave the practice area, and will ensure that the practice area is clean and free of debris before leaving.

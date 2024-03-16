@@ -3,8 +3,7 @@ title: Raiders
 sidebar_position: 1
 ---
 
-
-<img  style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
 src={require('./assets/Raiderpatch.png').default} width='250px' height='250px' alt='this is a test'/>
 
 The Air Force JROTC is starting a new, challenging and exceptionally elite competition team known as the Raider Team.

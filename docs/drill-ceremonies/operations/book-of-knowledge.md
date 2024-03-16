@@ -10,13 +10,13 @@ Included in this section are the required knowledge items for all cadet cadre. T
 
 We will not lie, steal, or cheat, nor tolerate among us anyone who does
 
-### Cadet Honor Oath
-
-We will not lie, steal, or cheat, nor tolerate among us anyone who does. Furthermore, I resolve to do my duty and to live honorably, (so help me God).
-
 ### What is a leader of character?
 
 A leader of character seeks to discover the truth, decide what is right, and demonstrate the courage and commitment to act accordingly.
+
+### What do we do when things go wrong?
+
+We cover for our teammates.
 
 ### Where are you, Sidewinder?
 
