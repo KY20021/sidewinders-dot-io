@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'AFJROTC - KY20221',
+        title: 'AFJROTC - KY20021',
         logo: {
           alt: 'My Site Logo',
           src: 'img/afjrotc-crest.svg',
