@@ -14,10 +14,10 @@ sidebar_position: 1
 | Basic Spin                         |             |
 | Flick                              |             |
 | Box 3                              |             |
+| Box 4                              |             |
 | Consecutive(3+) One Handed (left)  |             |
 | Consecutive(3+) One Handed (right) |             |
 | Combined 6 Count                   |             |
-| Box 5                              |             |
 | Single Back                        |             |
 | Backdrop (Waterfall)               |             |
 | Two Handed Spin \*                 |             |
