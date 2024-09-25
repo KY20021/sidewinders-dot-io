@@ -25,9 +25,8 @@ sidebar_position: 1
 
 | Results                  | ------------------------------------------------ |
 | ------------------------ | ------------------------------------------------ |
-| **Total**                |                                                  |
+| **Total (max 33)**       |                                                  |
 | **Comments:**            |                                                  |
 | **Evaluator Signature:** |                                                  |
 
 - Denotes optional moves. If the optional moves are not performed, the maximum score is 27.
-- The maximum score is 33.
