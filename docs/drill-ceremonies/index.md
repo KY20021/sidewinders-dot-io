@@ -21,10 +21,11 @@ src={require('./assets/Honorguardpatch.png').default} width='250px' height='250p
 
 ## Drill manuals
 
-[AFMAN 34-1203](https://static.e-publishing.af.mil/production/1/af_a1/publication/dafpam34-1203/dafpam34-1203.pdf)
+[AFMAN 36-2203](https://static.e-publishing.af.mil/production/1/af_a1/publication/dafpam34-1203/dafpam34-1203.pdf)
 
-As we continue to build out the normalized version of our drill and ceremonies manual, we will default to AFMAN 34-1203 as the source of truth. We will also be adding additional information to the manual as we see fit. The manual will be broken down into the following sections:
+As we continue to build out the normalized version of our drill and ceremonies manual, we will default to AFMAN 36-2203 as the source of truth. We will also be adding additional information to the manual as we see fit. The manual will be broken down into the following sections:
 
+- [Standard 30 Count Drill Sequence](drill-ceremonies/regulation-unarmed-drill/standard-30-count)
 - [Regulation Unarmed Drill](/docs/category/regulation-unarmed-drill)
-- [Ceremonies](/docs/category/ceremonies-manual)
-- [Competition](/docs/category/competition-manual)
+  <!-- - [Ceremonies](/docs/category/ceremonies-manual) -->
+  <!-- - [Competition](/docs/category/competition-manual) -->
