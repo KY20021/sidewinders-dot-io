@@ -12,7 +12,7 @@ Screen sharing in zoom and google meet is commonly broken by default in Ubuntu s
 
 To disable Wayland and switch to the X11 display server, follow the steps below:
 
-1. Confirm you are infact using Wayland by running the following command in the terminal:
+1. Confirm you are in fact using Wayland by running the following command in the terminal:
 
 ```bash
 echo $XDG_SESSION_TYPE
