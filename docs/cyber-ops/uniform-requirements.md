@@ -3,7 +3,7 @@ title: Uniform Items and Requirements
 sidebar_position: 2
 ---
 
-# Cyber Senteniel Uniform Items and Requirements
+# Cyber Sentinel Uniform Items and Requirements
 
 - [Operational Camouflage Pattern (OCP) Uniform](#operational-camouflage-pattern-ocp-uniform)
 - [Cyber Duty Identifier](#cyber-duty-identifier)
