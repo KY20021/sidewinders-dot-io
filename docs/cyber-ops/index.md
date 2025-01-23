@@ -25,4 +25,4 @@ Aspiring cybersecurity enthusiasts, this is your chance to become a guardian of 
 
 Join our ranks, and together, we'll make a difference in the ever-evolving landscape of cyberspace. Whether you're a tech whiz, a coding prodigy, or just passionate about cybersecurity, we welcome you to be a part of the Cadet Cyber Operations Team.
 
-Ready to accept the challenge? You can find instructions to apply to our team somewhere in the code to this website. Good luck!
+Ready to accept the challenge? Inquire today and embark on a journey that will shape your future in the digital frontier! 🌐💻🔐

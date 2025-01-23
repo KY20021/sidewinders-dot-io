@@ -23,7 +23,8 @@ For Raider Candidates (RC) to wear the OCP, they must meet the requirements belo
 
 <!--an image of /ocp.jpeg -->
 
-![OCP Uniform](./assets/ocp.jpeg)
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/ocp.jpeg').default} width='250px' height='250px' />
 
 ## Raider Black T-Shirt
 
@@ -36,7 +37,8 @@ Worn with OCP uniform in place of the coyote brown T-shirt.
 
 <!--an image of /raider-black-t-shirt.jpeg -->
 
-![Raider Black T-Shirt](./assets/raider-shirt.png)
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/raider-shirt.png').default} width='250px' height='250px' />
 
 ## Raider OCP Shoulder Tab
 
@@ -48,7 +50,8 @@ To be worn with the OCP Uniform on the Right Sleeve above the unit patch.
 - Good Standing within JROTC and the school.
 - Attended Five Raider Practices for initial award.
 
-![Raider OCP Shoulder Tab](./assets/raider-tab.png)
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/raider-tab.png').default} width='250px' height='250px' />
 
 ## Raider Arc Pin
 
@@ -60,7 +63,8 @@ Worn on the left breast pocket below the award ribbons.
 - Good Standing within JROTC and the school.
 - Attend a semester of Raider Practices for initial award.
 
-![Raider Arc Pin](./assets/raider-arc-pin.png)
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/raider-arc-pin.png').default} width='250px' height='250px' />
 
 ## Raider Black Cord
 
@@ -71,7 +75,8 @@ Worn on the left shoulder.
 - Attend Raider Practices
 - Good standing within JROTC and the school
 
-![Raider Black Cord](./assets/black-cord.jpg)
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/black-cord.jpg').default} width='250px' height='250px' />
 
 ## Raider Ribbon
 
@@ -83,4 +88,5 @@ Worn within the ribbon rack.
 - Attend Raider Practices
 - Good standing within JROTC and the school
 
-![Raider Ribbon](./assets/raider-ribbon.jpg)
+<img style={{marginLeft: 'auto',marginRight:'auto', display:'block'}}
+src={require('./assets/raider-ribbon.jpg').default} width='250px' height='250px' />
