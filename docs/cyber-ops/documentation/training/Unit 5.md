@@ -1,5 +1,6 @@
 ---
 title: Unit 5 - Computer Internals 
+sidebar_position: 4
 ---
 
 ---

@@ -1,5 +1,6 @@
 ---
 title: Unit 4 - Cybersecurity
+sidebar_position: 3
 ---
 ### Principles of Cybersecurity
 ***
