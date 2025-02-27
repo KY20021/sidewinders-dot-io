@@ -108,7 +108,6 @@ Jayden asks for your help in getting into Emily’s Instagram account to remove 
 3. You don't want to be a bad friend, so you help Jayden remove the picture. Then, you change Emily’s password so she can't repost the picture. Later, you borrow Emily’s phone and delete the picture, so that this situation will be over.
 4. You explain to Jayden that it's his fault for being in the picture in the first place and Emily shouldn’t have to take down the picture. You also explain how things can stay on the Internet forever and that you don't want to be friends with people who don’t make good decisions
 
-<!--hack tuah-->
 ------
 <h2 style={{textAlign: 'center'}} >Summary</h2>
 
