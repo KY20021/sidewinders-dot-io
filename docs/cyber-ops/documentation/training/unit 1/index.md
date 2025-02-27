@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-title: UNIT 1
+title: Unit 1 - CyberPatriot Introduction
 ---
 # UNIT 1
 # Introduction to CyberPatriot and Cybersecurity

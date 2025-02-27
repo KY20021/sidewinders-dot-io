@@ -1,5 +1,5 @@
 ---
-title: Unit 7 - Microsoft Windows Security Tools
+title: Unit 7 - Windows Security Tools
 sidebar_position: 6
 ---
 ----------

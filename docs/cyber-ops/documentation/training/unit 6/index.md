@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: UNIT 6
+title: Unit 6 - Windows Basics
 ---
 # UNIT 6
 # Microsoft Windows Basics

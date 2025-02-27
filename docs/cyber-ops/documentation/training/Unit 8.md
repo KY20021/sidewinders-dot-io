@@ -1,5 +1,5 @@
 ---
-Title: Unit 8
+Title: Unit 8 - Windows Security
 --- 
 ### Microsoft Windows Security Configuration
 ---
