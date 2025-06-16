@@ -1,6 +1,6 @@
 ---
-title: Unit 9
-sidebar_position: 8 
+sidebar_position: 8
+title: Unit 9 - Linux and Ubuntu
 ---
 ### Introduction to Linux and Ubuntu
 ---
