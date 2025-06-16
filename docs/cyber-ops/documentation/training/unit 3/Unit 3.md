@@ -2,14 +2,15 @@
 title: Unit 3 - Ethics
 sidebar_position: 2
 ---
------------
+
 <header>
-<h1 style={{textAlign: 'center'}} >UNIT 3</h1>
-<h2 style={{textAlign: 'center'}} >Cyber Ethics</h2>
+
+
+<h2>Cyber Ethics</h2>
 </header>
 
-------------
-<h2 style={{textAlign: 'center'}} >Learning Objectives</h2>
+-----------
+<h2>Learning Objectives</h2>
 
 - ### **Students will understand:**
     - What ethics are
@@ -18,7 +19,7 @@ sidebar_position: 2
     - The responsibility that comes with knowing cybersecurity principles
     - How to apply ethics in the real world
 -----------
-<h2 style={{textAlign: 'center'}} >Principles of Cyber Ethics</h2>
+<h2>Principles of Cyber Ethics</h2>
 
 | Do | Do Not |
 | --------- | ----------- |
@@ -31,14 +32,14 @@ sidebar_position: 2
 |  | Do not use other people's computer resources without authorization or proper  compensation. |
 |  | Do not appropriate other people's intellectual output. |
 ------
-<h2 style={{textAlign: 'center'}} >Introduction</h2>
+<h2>Introduction</h2>
 
 - Ethics is about right and wrong
 - What is right?
 - What is wrong?
 - How do we know?
 -------
-<h2 style={{textAlign: 'center'}} >Why Ethics?</h2>
+<h2>Why Ethics?</h2>
 
 ### We all need ethics because they help us determine what is right and wrong.
 - Promotes a sense of fairness 
@@ -47,7 +48,7 @@ sidebar_position: 2
 - They help us determine how to act in a given situation.
 - They can help us identify unethical behavior
 -------
-<h2 style={{textAlign: 'center'}} >What is Ethics?</h2>
+<h2>What is Ethics?</h2>
 
 ### Standards for right and wrong
 - What we should do in different situations
@@ -55,7 +56,7 @@ sidebar_position: 2
     - Written: company mission statements, school policies on academic dishonesty
     - Unwritten: don’t “cut” in a line, opening doors or holding elevators for people
 -------
-<h2 style={{textAlign: 'center'}} >Sources of Ethics</h2>
+<h2>Sources of Ethics</h2>
 
 - Laws
 - Feelings
@@ -64,7 +65,7 @@ sidebar_position: 2
 - Philosophy
 - Family
 --------
-<h2 style={{textAlign: 'center'}} >Ethical Behavior</h2>
+<h2>Ethical Behavior</h2>
 
 - Do people make good decisions?
 - Do people always make good decisions?
@@ -72,11 +73,11 @@ sidebar_position: 2
 - Do YOU always make good decisions?
 - Does a bad decision mean you’re unethical?
 --------
-<h2 style={{textAlign: 'center'}} >Understanding vs. Behavior</h2>
+<h2>Understanding vs. Behavior</h2>
 
 - Knowing right from wrong doesn’t automatically mean we DO the right thing
 -------
-<h2 style={{textAlign: 'center'}} >Ethical Behavior Requires</h2>
+<h2>Ethical Behavior Requires</h2>
 
 - ### Courage
     - See something, say something
@@ -87,21 +88,19 @@ sidebar_position: 2
     - Are you a better than the average driver?
     - Are you more ethical than the average person?
 ------
-<h2 style={{textAlign: 'center'}} >Questions</h2>
+<h2>Questions</h2>
 
 - Does the Internet make it easier or harder to act ethically?
 - Is it easier or harder to do the right thing when others are watching?
 - Is it easier or harder to do the right thing when it means that you have to choose between friends?
 ------
-<h1 style={{textAlign: 'center'}} >ETHICS ACTIVITY</h1>
-<h2 style={{textAlign: 'center'}} >Hack, No Hack?</h2>
-
+# Ethic activity 
 --------
-<h2 style={{textAlign: 'center'}} >Scenerio Hack, No Hack</h2>
+<h2>Scenerio Hack, No Hack</h2>
 
 Emily posted a picture of your friend Jayden on Instagram. The picture makes it look as if Jayden is consuming alcohol, but you know that he wasn’t. Your friend Jayden is very upset, and Emily refuses to take the picture down.
 Jayden asks for your help in getting into Emily’s Instagram account to remove the picture.
-<h2 style={{textAlign: 'center'}} >What should you do?</h2>
+<h2>What should you do?</h2>
 
 1. You don't want Jayden to get into trouble. So, you tell him that you're only going to help this once. Then you use a tool that you found on the Internet to help Jayden get into Emily's Instagram account and remove the picture.
 2. You let Jayden know that Instagram allows people to report images that violate their rules. You help Jayden contact Instagram to have them remove the picture and you let him know that it may take a few days to get an answer.
@@ -109,11 +108,9 @@ Jayden asks for your help in getting into Emily’s Instagram account to remove 
 4. You explain to Jayden that it's his fault for being in the picture in the first place and Emily shouldn’t have to take down the picture. You also explain how things can stay on the Internet forever and that you don't want to be friends with people who don’t make good decisions
 
 ------
-<h2 style={{textAlign: 'center'}} >Summary</h2>
+<h2>Summary</h2>
 
 - Understand what ethics are and why they are important
 - Understand how to act ethically
 - Understand the responsibility that comes with knowing and using cybersecurity principles
 - Understand how to apply ethics to real-world situations
--------
-<h2 style={{textAlign: 'center'}}>End of Unit 3</h2>

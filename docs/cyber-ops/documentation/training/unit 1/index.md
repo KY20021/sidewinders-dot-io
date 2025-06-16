@@ -2,10 +2,10 @@
 sidebar_position: 0
 title: Unit 1 - CyberPatriot Introduction
 ---
-# UNIT 1
-# Introduction to CyberPatriot and Cybersecurity
+
+### Introduction to CyberPatriot and Cybersecurity
 ---
-## Learning Objectives
+# Learning Objectives
 - **Understanding of the CyberPatriot competition.**
     - Overview
     - National Finals Competition
@@ -18,7 +18,7 @@ title: Unit 1 - CyberPatriot Introduction
     - Cybersecurity Careers
 ---
 
-# Section 1
+
 
 ## The National Youth Cyber Defense Competition
 
@@ -141,7 +141,8 @@ title: Unit 1 - CyberPatriot Introduction
 ![alt text](image-5.png)
 
 ---
-# Section 2
+
+
 
 ## Introduction to Cybersecurity
 
@@ -175,37 +176,37 @@ Almost everything relies on or could be affected by a computer.
 
 - There are 16 Critical Infrastructure Sectors whose assets, systems, and networks are deemed so essential that if compromised or destroyed there would be existential effects on national security, national economics, and/or public health. 
     - Cybersecurity & Infrastructure Security Agency (CISA) listed the following as Critical Infrastructure Sectors:  
-        **1)** Chemical Sector
+        **1** Chemical Sector
 
-        **2)** Commercial Facilities Sector
+        **2** Commercial Facilities Sector
 
-        **3)** Communications Sector
+        **3** Communications Sector
 
-        **4)** Critical Manufacturing Sector
+        **4** Critical Manufacturing Sector
 
-        **5)** Dams Sector
+        **5** Dams Sector
 
-        **6)** Defense Industrial Sector
+        **6** Defense Industrial Sector
 
-        **7)** Emergency Services Sector
+        **7** Emergency Services Sector
 
-        **8)** Energy Sector
+        **8** Energy Sector
 
-        **9)** Financial Services Sector
+        **9** Financial Services Sector
 
-        **10)** Food and Agriculture Sector
+        **10** Food and Agriculture Sector
 
-        **11)** Government Facilities Sector
+        **11** Government Facilities Sector
 
-        **12)** Healthcare and Public Health Sector
+        **12** Healthcare and Public Health Sector
 
-        **13)** Information Technology Sector
+        **13** Information Technology Sector
 
-        **14)** Nuclear Reactors, Materials and Waste Sector
+        **14** Nuclear Reactors, Materials and Waste Sector
 
-        **15)** Transportation Systems Sector
+        **15** Transportation Systems Sector
 
-        **16)** Water and Wastewater Systems Sector
+        **16** Water and Wastewater Systems Sector
 
 ## Why is Cybersecurity Important
 
@@ -232,25 +233,25 @@ Impacted major retail companies like Target, Dairy Queen, and UPS
 
 ## Cyber Career Opportunities
 
-**1)** Security Software Developer: software is often not built with security in mind. The Security Software Developer designs and integrates security into every aspect of the software development lifecycle. 
+**1** Security Software Developer: software is often not built with security in mind. The Security Software Developer designs and integrates security into every aspect of the software development lifecycle. 
 
-**2)** Security Architect Career Path:  Create and build secure networks and computers for complex security frameworks.  This is an ideal career path for the problem solver who enjoys solving puzzles. 
+**2** Security Architect Career Path:  Create and build secure networks and computers for complex security frameworks.  This is an ideal career path for the problem solver who enjoys solving puzzles. 
 
-**3)** Security Consultant:  Experts that evaluate cybersecurity threats, risks and problems to guide organizations in providing protection solutions. This is a very tech-savvy position. 
+**3** Security Consultant:  Experts that evaluate cybersecurity threats, risks and problems to guide organizations in providing protection solutions. This is a very tech-savvy position. 
 
-**4)** Information Security Analyst:  Professionals that stand at the front line of defense for networks. They create and maintain firewalls and monitor network activities. 
+**4** Information Security Analyst:  Professionals that stand at the front line of defense for networks. They create and maintain firewalls and monitor network activities. 
 
-**5)** Ethical Hacker: Are licensed professionals that try to hack a network with permission to find vulnerabilities. The try to find what is vulnerable and could be exploited by a malicious hacker. 
+**5** Ethical Hacker: Are licensed professionals that try to hack a network with permission to find vulnerabilities. The try to find what is vulnerable and could be exploited by a malicious hacker. 
 
-**6)** Computer Forensics Analyst: Professionals that focus on cyber crimes and partake in data recovery, intercepting data linked to crimes, and a detailed look into data trails. 
+**6** Computer Forensics Analyst: Professionals that focus on cyber crimes and partake in data recovery, intercepting data linked to crimes, and a detailed look into data trails. 
 
-**7)** Chief Information Security Officer:  Mid Executive position that oversees an organization’s IT department. They are responsible for planning, managing, and directing all computer, network and data security needs. 
+**7** Chief Information Security Officer:  Mid Executive position that oversees an organization’s IT department. They are responsible for planning, managing, and directing all computer, network and data security needs. 
 
-**8)** Penetration Tester: Highly skilled professionals that are typically ethical hackers and try to infiltrate a corporation's security measures (physical and electronic) with permission from the corporation. A penetration tester will use social engineering tactics to test the security of a company's employee practices. 
+**8** Penetration Tester: Highly skilled professionals that are typically ethical hackers and try to infiltrate a corporation's security measures (physical and electronic) with permission from the corporation. A penetration tester will use social engineering tactics to test the security of a company's employee practices. 
 
-**9)** IT Security Consultant:  Are typically outsourced contractors that advise organizations on cybersecurity objectives. They typically service smaller businesses on tighter budgets. 
+**9** IT Security Consultant:  Are typically outsourced contractors that advise organizations on cybersecurity objectives. They typically service smaller businesses on tighter budgets. 
 
-**10)** Security Systems Administrator: The person in charge of daily operations for security controls ( installing, administering, maintaining, and troubleshooting) to include backing up data, network monitoring, user account management, and general security needs. 
+**10** Security Systems Administrator: The person in charge of daily operations for security controls ( installing, administering, maintaining, and troubleshooting) to include backing up data, network monitoring, user account management, and general security needs. 
 
 ## Important Resources
 
