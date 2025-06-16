@@ -2,10 +2,10 @@
 sidebar_position: 5
 title: Unit 6 - Windows Basics
 ---
-# UNIT 6
-# Microsoft Windows Basics
+
+### Microsoft Windows Basics
 ---
-## Learning Objectives
+# Learning Objectives
 - **Participants will understand what the Microsoft Windows operating system is and its basic history.**
     - Windows OS Basics
     - Windows Version History
@@ -24,7 +24,8 @@ competition will be covered.
 listed, though they were used in the 
 competition.
 
-*Desktop Image*
+
+
 
 ![alt text](image.png)
 
@@ -43,7 +44,8 @@ Notable Security Concerns
 - Almost 250 million people still use Windows XP
 - Many systems running these OSes may also have outdated hardware and applications that also have security concerns.
 
-*Desktop Image*
+
+
 
 ![alt text](image-1.png)
 
@@ -62,7 +64,6 @@ Notable Security Concerns
 - Vista included major architectural changes, making it significantly more secure than base Windows XP.
 - While UAC is a useful security tool, it caused major usability issues for the average user.
 
-*Desktop Image*
 
 ![alt text](image-2.png)
 
@@ -80,7 +81,7 @@ Notable Security Concerns
 - Initial launch only had minimal security fixes over Vista.
 - As the most widely used OS, Windows 7 is the most targeted by malicious users and software.
 
-*Desktop Image*
+
 
 ![alt text](image-3.png)
 
@@ -97,7 +98,8 @@ Notable Security Concerns
 - Some applications were rewritten to maintain compatibility with the new GUI, which could lead to new security flaws.
 - “Picture passwords” can be more easily cracked than traditional passwords.
 
-*Desktop Image*
+
+
 
 ![alt text](image-4.png)
 
