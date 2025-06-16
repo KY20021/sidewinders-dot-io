@@ -1,6 +1,6 @@
 ---
-title: Unit 2
-sidebar_positon: left 
+sidebar_position: 1
+title: Unit 2 - Online Safety
 ---
 ### Introduction to Online Safety
 ---
@@ -36,7 +36,7 @@ sidebar_positon: left
 
    - Do not try to obtain personal info about someone
 
-   ![alt text](srcccc.png)
+   ![alt text](<srcccc.png>)
 
 --------
 # Cyberbullying

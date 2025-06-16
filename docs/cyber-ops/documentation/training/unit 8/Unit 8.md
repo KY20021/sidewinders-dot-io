@@ -1,7 +1,7 @@
 ---
-Title: Unit 8 - Windows Security
 sidebar_position: 7
---- 
+title: Unit 8 - Microsoft Windows Security 
+---
 ### Microsoft Windows Security Configuration
 ---
 
